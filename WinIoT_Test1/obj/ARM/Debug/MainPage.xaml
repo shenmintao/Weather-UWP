@@ -1,0 +1,24 @@
+﻿<Page x:ConnectionId='1' x:Name="Page1"
+    x:Class="WinIoT_Test1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinIoT_Test1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="600" ManipulationMode="TranslateX"                                              >
+    <Page.Transitions>
+        <TransitionCollection>
+            <EdgeUIThemeTransition x:ConnectionId='2' x:Name="navAnimate" Edge="Left" />
+        </TransitionCollection>
+    </Page.Transitions>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image x:ConnectionId='3' x:Name="image" HorizontalAlignment="Center" Height="600" VerticalAlignment="Top" Width="1024" NineGrid="0" Stretch="UniformToFill"/>
+        <TextBlock x:ConnectionId='4' x:Name="TimeDisplay" HorizontalAlignment="Left"  Foreground="White" TextWrapping="Wrap" TextAlignment="Center" Text="" Height="109" Width="339" FontSize="86.667" VerticalAlignment="Center" Margin="0,395,0,96" />
+        <TextBlock x:ConnectionId='5' x:Name="DateDisplay" HorizontalAlignment="Left"  Foreground="White" TextWrapping="Wrap" TextAlignment="Center" Text="" Height="91" Width="339" FontSize="64" VerticalAlignment="Bottom"/>
+        <Image x:ConnectionId='6' x:Name="WeatherImage" HorizontalAlignment="Right" Height="100" VerticalAlignment="Bottom" Width="100" Stretch="UniformToFill" Margin="0,0,0,105"/>
+        <TextBlock x:ConnectionId='7' x:Name="CityName" HorizontalAlignment="Right" TextWrapping="Wrap" TextAlignment="Center" Text="" VerticalAlignment="Bottom" Width="100" FontSize="20" Foreground="White" Margin="0,0,0,70" Height="35"/>
+        <TextBlock x:ConnectionId='8' x:Name="Weather" HorizontalAlignment="Right" TextWrapping="Wrap" TextAlignment="Center" Text="" VerticalAlignment="Bottom" Width="100" FontSize="20" Foreground="White" Margin="0,0,0,35" Height="35"/>
+        <TextBlock x:ConnectionId='9' x:Name="Temperature" HorizontalAlignment="Right" TextWrapping="Wrap" TextAlignment="Center" Text="" VerticalAlignment="Bottom" Width="100" FontSize="20" Foreground="White" Height="35"/>
+    </Grid>
+</Page>
+

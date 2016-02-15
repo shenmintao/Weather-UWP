@@ -1,0 +1,15 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\obj\ARM\Release\ilc\intermediate\MDIL\WinIoT_Test1.mdilexe"
+"/i:C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\obj\ARM\Release\ilc\intermediate\MDIL\"
+/out:"C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\obj\ARM\Release\ilc\intermediate\Native\WinIoT_Test1.exe"
+"/res:C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\obj\ARM\Release\ilc\intermediate\Native.res"
+"/i:C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\ARM\ret\MDIL"
+/shimexe
+/classlib:SharedLibrary

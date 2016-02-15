@@ -1,0 +1,1 @@
+C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\WinIoT_Test1.csproj;x64

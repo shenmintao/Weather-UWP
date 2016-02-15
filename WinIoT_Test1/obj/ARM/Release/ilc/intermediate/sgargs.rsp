@@ -1,0 +1,8 @@
+/out:"C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\obj\ARM\Release\ilc\intermediate\\"
+/ref:"C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Private\\"
+/ref:"C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Users\Shenmintao\documents\visual studio 2015\Projects\WinIoT_Test1\WinIoT_Test1\obj\ARM\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
